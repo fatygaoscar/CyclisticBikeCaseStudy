@@ -6,7 +6,7 @@ library(lubridate) # Helps wrangle date attributes
 library(ggplot2)   # Helps visualize data
 library(dplyr)     # Distinct function
 getwd()            # Displays your working directory
-setwd("C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code") 
+setwd("C:/Users/***/R code") 
 #sets your working directory to simplify calls to data
 
 ############################################################ LOADING IN DATA ############
