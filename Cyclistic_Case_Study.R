@@ -193,14 +193,14 @@ count_rides_per_path_id$longitude <- formatC(count_rides_per_path_id$longitude, 
 
 ## Writing CSVs of Final Data ##
 
-write.csv(avg_ride_length_per_weekday, file = "C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code/avg_ride_length_per_weekday.csv")
-write.csv(num_of_rides_per_weekday, file = "C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code/num_of_rides_per_weekday.csv")
-write.csv(num_of_rides_per_date, file = "C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code/num_of_rides_per_date.csv")
-write.csv(avg_start_coor_per_station_id, file = "C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code/start_coor_per_station.csv")
-write.csv(avg_end_coor_per_station_id, file = "C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code/end_coor_per_station.csv")
-write.csv(count_rides_per_path_id, file = "C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code/count_rides_per_path_id.csv")
+write.csv(avg_ride_length_per_weekday, file = "C:/Users/***/R code/avg_ride_length_per_weekday.csv")
+write.csv(num_of_rides_per_weekday, file = "C:/Users/***/R code/num_of_rides_per_weekday.csv")
+write.csv(num_of_rides_per_date, file = "C:/Users/***/R code/num_of_rides_per_date.csv")
+write.csv(avg_start_coor_per_station_id, file = "C:/Users/***/R code/start_coor_per_station.csv")
+write.csv(avg_end_coor_per_station_id, file = "C:/Users/***/R code/end_coor_per_station.csv")
+write.csv(count_rides_per_path_id, file = "C:/Users/***/R code/count_rides_per_path_id.csv")
 
-write.csv(all_trips_1, file = "C:/Users/ozzfa/Dropbox/PC (2)/Documents/1                Job Search Fall 2021/! Google Data Analytics Professional Certificate/CAPSTONE/R code/all_trips_1.csv")
+write.csv(all_trips_1, file = "C:/Users/***/R code/all_trips_1.csv")
 
 
 
